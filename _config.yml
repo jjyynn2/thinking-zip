@@ -1,0 +1,23 @@
+title:              "고민저장소.ZIP"
+tagline:            "고민의 순간을 저장합니다"
+email:              "jyp9403@gmail.com"
+description:        "우리는 매번 주어진 일을 해결하기 위한 고민을 합니다. 이곳은 해결만 하고 끝나는 일이 아닌, 더 나은 다음을 위한 과거 고민들을 저장하는 고민저장소예요."
+author:             "으쓱으쓱 짤랑"
+baseurl:            "/"
+url:                "https://thinking-zip.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-paginate

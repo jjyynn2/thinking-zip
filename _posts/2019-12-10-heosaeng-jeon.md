@@ -49,7 +49,7 @@ description: '트랜드, 일일이 찾기 힘들잖아요? 시간 들이지 않�
 
 ***
 
-###  **1. Brand Boy **
+###  **1. Brand Boy**
 
 ![facebookzip](/img/posts/01/04.png)
 
